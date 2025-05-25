@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     string kalimat;
-    
+    // Program untuk mengubah huruf vokal dalam kalimat menjadi huruf kapital
     cout << "Masukkan sebuah kalimat: ";
     getline(cin, kalimat);
 
